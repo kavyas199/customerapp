@@ -1,0 +1,26 @@
+.table-header{
+    background-color: rgb(240, 234, 227);
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    color: royalblue;
+}
+.table-body{
+    background-color: rgb(163, 231, 226);
+    color: rgb(236, 49, 49);
+}
+.table{
+    text-align: center;
+    color: #7c72db;
+    border: rgb(228, 174, 26) solid 2px;
+}
+.button-del{
+    color: blanchedalmond;
+    background-color: brown;
+    border: chartreuse solid 2px;
+}
+Form {
+ background-color: khaki;
+ color:red;
+ border: 2px solid royalblue;
+}
